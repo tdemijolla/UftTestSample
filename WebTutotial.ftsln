@@ -2,9 +2,9 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 # SharpDevelop 4.1.3.0-trunk
-Project("") = "AdvantageDEMO", "AdvantageDEMO\Test.tsp", "F4A4B1C2-AD63-4B69-934B-5C7FBCEF4265"
+Project("") = "AdvantageDEMO", "..\WebTutorialWithParams\AdvantageDEMO\Test.tsp", "CBCC87C8-00F1-4A54-8FFB-EA3747656A9A"
 	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
-		PathInformation = C:\Users\tdemijolla\Desktop\Dev\WebTutotial\AdvantageDEMO\Test.tsp
+		PathInformation = C:\Users\tdemijolla\Desktop\Dev\WebTutorialWithParams\AdvantageDEMO\Test.tsp
 		Keyword = QTP
 		OpenAsReadOnly = False
 		BaselineId = 
@@ -16,9 +16,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		F4A4B1C2-AD63-4B69-934B-5C7FBCEF4265.Debug|Any CPU.Build.0 = Debug|Any CPU
-		F4A4B1C2-AD63-4B69-934B-5C7FBCEF4265.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		F4A4B1C2-AD63-4B69-934B-5C7FBCEF4265.Release|Any CPU.Build.0 = Release|Any CPU
-		F4A4B1C2-AD63-4B69-934B-5C7FBCEF4265.Release|Any CPU.ActiveCfg = Release|Any CPU
+		CBCC87C8-00F1-4A54-8FFB-EA3747656A9A.Debug|Any CPU.Build.0 = Debug|Any CPU
+		CBCC87C8-00F1-4A54-8FFB-EA3747656A9A.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		CBCC87C8-00F1-4A54-8FFB-EA3747656A9A.Release|Any CPU.Build.0 = Release|Any CPU
+		CBCC87C8-00F1-4A54-8FFB-EA3747656A9A.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 EndGlobal
