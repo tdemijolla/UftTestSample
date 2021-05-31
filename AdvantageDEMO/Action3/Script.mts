@@ -1,6 +1,5 @@
 ﻿wait 1
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("1").Click
-wait 1
 Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("check_out_btn").Click
 wait 1
 Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("next_btn").Click
